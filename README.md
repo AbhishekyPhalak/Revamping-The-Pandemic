@@ -21,4 +21,4 @@ Revamping the Pandemic is a responsive website created to support the community 
 ### **Installation and Setup**
 1. Clone this repository:  
    ```bash
-   git clo
+   git clone https://github.com/AbhishekyPhalak/Revamping-the-Pandemic.git
